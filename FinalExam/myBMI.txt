@@ -1,0 +1,4 @@
+BMI RESULTS:
+Weight: 150.00 lbs, Height: 4.00 in, BMI: 6591.28, Category: Obese
+Weight: 170.00 lbs, Height: 5.00 in, BMI: 4780.87, Category: Obese
+Weight: 180.00 lbs, Height: 8.00 in, BMI: 1977.38, Category: Obese
